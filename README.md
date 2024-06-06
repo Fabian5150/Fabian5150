@@ -21,9 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My current agenda:
-- 🔭 I’m currently working on:
-  - Various small JS/TS projects to improve my skills in those languages
-  - An intuitive and easily customizable practice tool for musicians in ReactTS
-- 🌱 I’m currently learning:
-  - Functional programming with haskell
